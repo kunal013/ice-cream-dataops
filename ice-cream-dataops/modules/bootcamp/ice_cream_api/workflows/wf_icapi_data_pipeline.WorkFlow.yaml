@@ -1,0 +1,2 @@
+externalId: wf_icapi_data_pipeline
+description: Ingest Ice Cream Factory API data and contextualize it in CDF.
